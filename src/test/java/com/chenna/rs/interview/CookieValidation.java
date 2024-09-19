@@ -2,7 +2,6 @@ package com.chenna.rs.interview;
 
 import static io.restassured.RestAssured.given;
 
-import java.util.List;
 import java.util.Map;
 
 import org.testng.annotations.Test;

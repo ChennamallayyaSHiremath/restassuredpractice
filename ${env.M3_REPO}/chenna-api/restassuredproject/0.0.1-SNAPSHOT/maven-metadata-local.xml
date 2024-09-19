@@ -3,7 +3,7 @@
   <groupId>chenna-api</groupId>
   <artifactId>restassuredproject</artifactId>
   <versioning>
-    <lastUpdated>20240919084106</lastUpdated>
+    <lastUpdated>20240919092258</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20240919084106</updated>
+        <updated>20240919092258</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>0.0.1-SNAPSHOT</value>
-        <updated>20240919084106</updated>
+        <updated>20240919092258</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
