@@ -12,6 +12,8 @@ import org.json.JSONObject;
 import org.json.JSONTokener;
 import org.testng.annotations.Test;
 
+// Different ways to create request body.
+
 public class DifferentWaysToCreateRequestBody {
 
 	
