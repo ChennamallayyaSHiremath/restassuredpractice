@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>chenna-api</groupId>
+  <artifactId>restassuredproject</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240919084106</lastUpdated>
+  </versioning>
+</metadata>
